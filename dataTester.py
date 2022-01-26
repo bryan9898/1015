@@ -4,7 +4,7 @@ import hashlib
 key = "8596348A"
 pw_hash = hashlib.sha256(key.encode()).hexdigest()
 username = "hello"
-dadw
+
 #Update Pass
 def updatePass():
 
@@ -17,7 +17,7 @@ def updatePass():
     myobj = {'key':pw_hash,'user': username,'oldPass': oldHash , 'newPass' : newHash}
     x = requests.post(url, data = myobj)
     print(x.text)
-dwadw
+
 #get user
 def getUser():
     url = 'https://asia-southeast1-aesthetic-frame-338708.cloudfunctions.net/getUser'
