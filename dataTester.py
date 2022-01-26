@@ -17,7 +17,7 @@ def updatePass():
     myobj = {'key':pw_hash,'user': username,'oldPass': oldHash , 'newPass' : newHash}
     x = requests.post(url, data = myobj)
     print(x.text)
-
+dwadw
 #get user
 def getUser():
     url = 'https://asia-southeast1-aesthetic-frame-338708.cloudfunctions.net/getUser'
