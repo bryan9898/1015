@@ -4,7 +4,7 @@ import hashlib
 key = "8596348A"
 pw_hash = hashlib.sha256(key.encode()).hexdigest()
 username = "hello"
-
+dadw
 #Update Pass
 def updatePass():
 
@@ -42,10 +42,10 @@ def deleteUser():
     print(x.text)
 
 def main():
-    #addUser()
+    addUser()
     #updatePass()
     #getUser()
-    deleteUser()
+    #deleteUser()
 
 
 
