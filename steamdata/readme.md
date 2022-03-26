@@ -1,4 +1,4 @@
-Data gathered May 2019
+Data gathered May 2019 from: https://www.kaggle.com/datasets/nikdavis/steam-store-raw
 > **name** : game's name  
 > 
 > **steam_appid** : Steam Application ID (unique)  
