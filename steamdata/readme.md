@@ -37,4 +37,6 @@ Data gathered May 2019 from: https://www.kaggle.com/datasets/nikdavis/steam-stor
 > 
 > **tags** : comma separated list of user-provided tags
 > 
+> **is_multiplayer** : whether game is multiplayer, otherwise singleplayer
+> 
 > **ratings** : rating of a game based on user reviews
