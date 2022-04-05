@@ -1,3 +1,4 @@
+gamesid,appName,appType,price,release_Date,rating,requiredAge,is_Multiplayer
 10,"Counter-Strike","game",9.99,"2000-11-01 00:00:00",88,0,1
 20,"Team Fortress Classic","game",4.99,"1999-04-01 00:00:00",-1,0,1
 30,"Day of Defeat","game",4.99,"2003-05-01 00:00:00",79,0,1
