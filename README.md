@@ -34,3 +34,4 @@ Main dataset gathered May 2019 from: https://www.kaggle.com/datasets/nikdavis/st
 - <https://www.datatechnotes.com/2021/02/seleckbest-feature-selection-example-in-python.html>
 - <https://jazpeng.github.io/predict_movie_ratings/>
 - <https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/>
+- <https://medium.com/web-mining-is688-spring-2021/predicting-imdb-ratings-of-new-movies-2b39459fee9a>
