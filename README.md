@@ -35,3 +35,4 @@ Main dataset gathered May 2019 from: https://www.kaggle.com/datasets/nikdavis/st
 - <https://jazpeng.github.io/predict_movie_ratings/>
 - <https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/>
 - <https://medium.com/web-mining-is688-spring-2021/predicting-imdb-ratings-of-new-movies-2b39459fee9a>
+- <https://towardsdatascience.com/time-series-forecasting-using-auto-arima-in-python-bb83e49210cd>
