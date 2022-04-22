@@ -4,9 +4,10 @@ SC1015 Mini-Project focusing on Steam games, with data retrieved from SteamSpy o
 Main dataset gathered May 2019 from: https://www.kaggle.com/datasets/nikdavis/steam-store-raw
   
 ## Contributors
-- @bryan9898 - Extracting Data, EDA, Classification, Recommender
-- @kakapoot - Data Cleaning, EDA, Regression, Classification
-- @chowweijie - EDA, Modelling, Presentation
+SC2 Team 7
+- @bryan9898 Bryan - Extracting Data, EDA, Classification, Recommender
+- @kakapoot Yu Juan - Data Cleaning, EDA, Regression, Classification
+- @chowweijie Wei Jie - EDA, Modelling, Presentation
 
 ## Problem Definition
 - How can we tell whether a game is good? 
