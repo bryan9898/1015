@@ -39,7 +39,7 @@ How do we find games that are good for us?
 - Cross Validation using GridSearchCV and KFold 
 - Other packages eg. ast, requests, json, nltk
 - Setting up of SQL server and database query
-- API Usage
+- API Usage (https://steamcommunity.com/dev)
 
 ## References
 
