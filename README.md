@@ -2,6 +2,7 @@
 
 SC1015 Mini-Project focusing on Steam games, with data retrieved from SteamSpy or Steam's API.
 Main dataset gathered May 2019 from: https://www.kaggle.com/datasets/nikdavis/steam-store-raw
+Secondary dataset: https://steam.internet.byu.edu/ (SQL file)
   
 ## Contributors
 SC2 Team 7
@@ -37,6 +38,7 @@ How do we find games that are good for us?
 - Gradient Boosting
 - Cross Validation using GridSearchCV and KFold 
 - Other packages eg. ast, requests, json, nltk
+- Setting up of SQL server and database query
 - API Usage
 
 ## References
