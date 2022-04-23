@@ -3,7 +3,15 @@
 SC1015 Mini-Project focusing on Steam games, with data retrieved from SteamSpy or Steam's API.
 Main dataset gathered May 2019 from: https://www.kaggle.com/datasets/nikdavis/steam-store-raw
 Secondary dataset: https://steam.internet.byu.edu/ (SQL file)
-  
+
+## Files
+SC1015 Mini-Project
+steamdata_clean.csv -> Cleaned Dataset from main dataset
+playergames.csv -> Cleaned dataset retireved from secondary dataset
+Steam - Data Cleaning -> Contains Data cleaning to clean the dataset
+Steam - EDA + Modelling -> Contains EDA and Modelling to answer - "How can we tell whether a game is good?"
+Steam - Game Recommendation System -> Contains model and recommendation system to answer - "How do we find games that are good for us?"
+
 ## Contributors
 SC2 Team 7
 - @bryan9898 Bryan - Extracting Data, EDA, Classification, Recommender
